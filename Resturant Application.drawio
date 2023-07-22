@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-07-22T18:03:42.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="QLd2wsln52I3YwVVtiIr" version="21.6.5" type="device">
+  <diagram name="Login Page" id="geE3002dTY7cXh_IBIFB">
+    <mxGraphModel dx="954" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xpUimuEQAJsZrHLwUcYp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0A4A9;" parent="1" vertex="1">
+          <mxGeometry x="190" y="100" width="210" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="xpUimuEQAJsZrHLwUcYp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
+          <mxGeometry x="215" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xpUimuEQAJsZrHLwUcYp-4" value="E-mail" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="215" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jszK8AKpvRvAAWxT3N1Z-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="215" y="220" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jszK8AKpvRvAAWxT3N1Z-2" value="Password" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="215" y="290" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jszK8AKpvRvAAWxT3N1Z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="390" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jszK8AKpvRvAAWxT3N1Z-4" value="Forget Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ed0202;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="430" width="97.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
